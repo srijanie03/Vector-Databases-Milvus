@@ -1,0 +1,10 @@
+2024-04-25 23:17:31
+0.7683579921722412
+Particularly, M3-Embedding is proficient in multilinguality, which is able to support more than 100 world languages.
+
+0.735811173915863
+1) We present M3-Embedding, which is the first model which supports multi-linguality, multifunctionality, and multi-granularity.
+
+0.6831701397895813
+In this paper, we present M3-Embedding, which achieves notable versatility in supporting multilingual retrieval, handling input of diverse granularities, and unifying different retrieval functionalities.
+
