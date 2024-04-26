@@ -1,5 +1,5 @@
 # Vector-Databases-Milvus
-This repo contains notebooks of my experiments/learnings in Milvus.
+This repo contains notebooks of my experiments/learnings in Milvus. 
 
 I wrote about vector databases in my article here:
 
