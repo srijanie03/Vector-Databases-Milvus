@@ -9,7 +9,7 @@ and seeing Milvus in action while being able to draw correspondence to the theor
 
 I tried the intergration of BGE-M3 model with Milvus. For each sentence in the paper, we use BAAI/bge-m3 model to convert the text string into 1024 dimension vector embedding, and store each embedding in Milvus.The input text was the M3 paper itself.
 
-Steps:
+**Steps**:
 1. Each sentence in the input file is first converted into a vector embedding of dimension 1024 and stored into Milvus.
 2. A 'collection' is created with the fields 'id', 'text' and 'embedding'.
 3. The next step is indexing where a shorter version of the embedding is produced for faster retrieval. Milvus does the heavy work with the parameters specified.
