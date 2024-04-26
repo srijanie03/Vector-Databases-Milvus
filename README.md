@@ -7,6 +7,8 @@ https://medium.com/towards-data-science/deep-dive-into-vector-databases-by-hand-
 
 and seeing Milvus in action while being able to draw correspondence to the theory was super!
 
+**Codes**
+
 I tried the intergration of BGE-M3 model with Milvus. For each sentence in the paper, we use BAAI/bge-m3 model to convert the text string into 1024 dimension vector embedding, and store each embedding in Milvus.The input text was the M3 paper itself.
 
 **Steps**:
